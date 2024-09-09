@@ -2,6 +2,10 @@
 
 This project is a React application that implements a user management table with Redux and TypeScript. It fetches user data from a mock API and provides simple filtering functionality.
 
+## Challenges I've faced:
+The only challenge I faced was gaining knowledge on how to use Redux. I wasn't familiar with the
+library, but luckily it shares similarities with lots of other state management solutions I've used.
+
 ## Features
 
 - Displays user information (name, username, email, and phone) in a table
